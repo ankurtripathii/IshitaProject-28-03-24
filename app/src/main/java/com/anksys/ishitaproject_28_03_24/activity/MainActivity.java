@@ -1,4 +1,4 @@
-package com.anksys.ishitaproject_28_03_24;
+package com.anksys.ishitaproject_28_03_24.activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import com.anksys.ishitaproject_28_03_24.databinding.ActivityMainBinding;
-import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;

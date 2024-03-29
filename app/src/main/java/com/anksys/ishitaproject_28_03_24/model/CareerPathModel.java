@@ -1,4 +1,4 @@
-package com.anksys.ishitaproject_28_03_24;
+package com.anksys.ishitaproject_28_03_24.model;
 
 public class CareerPathModel {
 

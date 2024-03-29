@@ -1,10 +1,13 @@
-package com.anksys.ishitaproject_28_03_24;
+package com.anksys.ishitaproject_28_03_24.activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
+import com.anksys.ishitaproject_28_03_24.adapter.CareerPathAdapter;
+import com.anksys.ishitaproject_28_03_24.model.CareerPathModel;
+import com.anksys.ishitaproject_28_03_24.R;
 import com.anksys.ishitaproject_28_03_24.databinding.ActivityCareerPathBinding;
 
 import java.util.ArrayList;

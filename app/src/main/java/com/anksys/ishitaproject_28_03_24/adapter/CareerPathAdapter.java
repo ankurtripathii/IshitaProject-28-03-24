@@ -1,4 +1,4 @@
-package com.anksys.ishitaproject_28_03_24;
+package com.anksys.ishitaproject_28_03_24.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,6 +9,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.anksys.ishitaproject_28_03_24.model.CareerPathModel;
+import com.anksys.ishitaproject_28_03_24.R;
 
 import java.util.ArrayList;
 
